@@ -1,3 +1,3 @@
 # React
 
-Repository of me learning react hooks
+Repository for me learning react hooks
